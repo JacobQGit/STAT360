@@ -1,0 +1,32 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Data Visualization",
+    "section": "",
+    "text": "A collection of projects for STAT ###",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
+    ]
+  },
+  {
+    "objectID": "chapter1.html",
+    "href": "chapter1.html",
+    "title": "Project 1: World Happiness",
+    "section": "",
+    "text": "Goals\nBased on the global happiness data from the years 2017, 2018, 2019, and 2020, we are exploring these questions:",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Project 1: World Happiness</span>"
+    ]
+  },
+  {
+    "objectID": "chapter1.html#top-10-happiest-countries-in-the-world",
+    "href": "chapter1.html#top-10-happiest-countries-in-the-world",
+    "title": "Project 1: World Happiness",
+    "section": "1. Top 10 Happiest Countries in the World",
+    "text": "1. Top 10 Happiest Countries in the World\n\n\n\n\n\n\n\n\n\nThis graph shows us the Top 10 happiest countries in 2020. It also shows that they are relatively close in score. ## 2. Tracking Happiness in Major Nations Over Time\n\n\n\n\n\n\n\n\n\nThis graph of happiness over the years 2017-2020 shows that Japan has maintained a consistent happiness score, Indonesia’s saw a brief dip before rising again, and Russia, China, and India have seen a consistent decline. ## 3. Consistent Leaders of Happiness\n\n\n\n\n\n\n\n\n\nSimilar to section 2, we can see the trends of the top 16 happiest countries over 2017-2020, as well as their trends. ## 4. A global correlation between GDP vs. Happiness\n\n\n\n\n\n\n\n\n\nThis comparison between GDP per capita and happiness score shows that there is a fairly consistent trend between a country’s overall happiness and the GDP per capita. It also shows that this is consistent across the years. ## 5. Regional Happiness Disparities\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe box and whisker plots show us the distribution of happiness scores based on region. From this we see that Europe has the highest average score while Africa is lowest. ## 6. Social Support, Life Expectancy, and Happiness\n\n\n\n\n\n\n\n\n\nWe can see a positive correlation between Life Expectency and Social Support where, as the Life Expectancy of a country increases, the Social Support of that country also increases. Additionally, the Happiness Score of these countries also tends to increase along with these. ## 7. Treemap of Global Happiness Rankings\n\n\n\n\n\n\n\n\n\nHere is a visualization of global happiness based on rank. The larger and lighter blue the country the higher the rank of overall happiness. From this, a country like Finland is one of the highest while a country like Mali is featured lower. ## 8. Happiness score visualized globally\n\n\n\n\n\n\n\n\n\nSimilar to section 7, this is a visualization of global happiness, represented by their locations on the map. This offers a more comprehensive perspective on any trends happiness might have depending on the country’s location.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Project 1: World Happiness</span>"
+    ]
+  }
+]
