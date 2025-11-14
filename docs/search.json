@@ -1,0 +1,122 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Data Visualization",
+    "section": "",
+    "text": "A collection of projects for STAT 360",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
+    ]
+  },
+  {
+    "objectID": "chapter1.html",
+    "href": "chapter1.html",
+    "title": "Project 1: World Happiness",
+    "section": "",
+    "text": "Goals\nBased on the global happiness data from the years 2017, 2018, 2019, and 2020, we are exploring these questions:",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Project 1: World Happiness</span>"
+    ]
+  },
+  {
+    "objectID": "chapter1.html#top-10-happiest-countries-in-the-world",
+    "href": "chapter1.html#top-10-happiest-countries-in-the-world",
+    "title": "Project 1: World Happiness",
+    "section": "1. Top 10 Happiest Countries in the World",
+    "text": "1. Top 10 Happiest Countries in the World\n\n\n\n\n\n\n\n\n\nThis graph shows us the Top 10 happiest countries in 2020. It also shows that they are relatively close in score.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Project 1: World Happiness</span>"
+    ]
+  },
+  {
+    "objectID": "chapter1.html#tracking-happiness-in-major-nations-over-time",
+    "href": "chapter1.html#tracking-happiness-in-major-nations-over-time",
+    "title": "Project 1: World Happiness",
+    "section": "2. Tracking Happiness in Major Nations Over Time",
+    "text": "2. Tracking Happiness in Major Nations Over Time\n\n\n\n\n\n\n\n\n\nThis graph of happiness over the years 2017-2020 shows that Japan has maintained a consistent happiness score, Indonesia’s saw a brief dip before rising again, and Russia, China, and India have seen a consistent decline.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Project 1: World Happiness</span>"
+    ]
+  },
+  {
+    "objectID": "chapter1.html#consistent-leaders-of-happiness",
+    "href": "chapter1.html#consistent-leaders-of-happiness",
+    "title": "Project 1: World Happiness",
+    "section": "3. Consistent Leaders of Happiness",
+    "text": "3. Consistent Leaders of Happiness\n\n\n\n\n\n\n\n\n\nSimilar to section 2, we can see the trends of the top 16 happiest countries over 2017-2020, as well as their trends.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Project 1: World Happiness</span>"
+    ]
+  },
+  {
+    "objectID": "chapter1.html#a-global-correlation-between-gdp-vs.-happiness",
+    "href": "chapter1.html#a-global-correlation-between-gdp-vs.-happiness",
+    "title": "Project 1: World Happiness",
+    "section": "4. A global correlation between GDP vs. Happiness",
+    "text": "4. A global correlation between GDP vs. Happiness\n\n\n\n\n\n\n\n\n\nThis comparison between GDP per capita and happiness score shows that there is a fairly consistent trend between a country’s overall happiness and the GDP per capita. It also shows that this is consistent across the years.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Project 1: World Happiness</span>"
+    ]
+  },
+  {
+    "objectID": "chapter1.html#regional-happiness-disparities",
+    "href": "chapter1.html#regional-happiness-disparities",
+    "title": "Project 1: World Happiness",
+    "section": "5. Regional Happiness Disparities",
+    "text": "5. Regional Happiness Disparities\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe box and whisker plots show us the distribution of happiness scores based on region. From this we see that Europe has the highest average score while Africa is lowest.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Project 1: World Happiness</span>"
+    ]
+  },
+  {
+    "objectID": "chapter1.html#social-support-life-expectancy-and-happiness",
+    "href": "chapter1.html#social-support-life-expectancy-and-happiness",
+    "title": "Project 1: World Happiness",
+    "section": "6. Social Support, Life Expectancy, and Happiness",
+    "text": "6. Social Support, Life Expectancy, and Happiness\n\n\n\n\n\n\n\n\n\nWe can see a positive correlation between Life Expectency and Social Support where, as the Life Expectancy of a country increases, the Social Support of that country also increases. Additionally, the Happiness Score of these countries also tends to increase along with these.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Project 1: World Happiness</span>"
+    ]
+  },
+  {
+    "objectID": "chapter1.html#treemap-of-global-happiness-rankings",
+    "href": "chapter1.html#treemap-of-global-happiness-rankings",
+    "title": "Project 1: World Happiness",
+    "section": "7. Treemap of Global Happiness Rankings",
+    "text": "7. Treemap of Global Happiness Rankings\n\n\n\n\n\n\n\n\n\nHere is a visualization of global happiness based on rank. The larger and lighter blue the country the higher the rank of overall happiness. From this, a country like Finland is one of the highest while a country like Mali is featured lower.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Project 1: World Happiness</span>"
+    ]
+  },
+  {
+    "objectID": "chapter1.html#happiness-score-visualized-globally",
+    "href": "chapter1.html#happiness-score-visualized-globally",
+    "title": "Project 1: World Happiness",
+    "section": "8. Happiness score visualized globally",
+    "text": "8. Happiness score visualized globally\n\n\n\n\n\n\n\n\n\nSimilar to section 7, this is a visualization of global happiness, represented by their locations on the map. This offers a more comprehensive perspective on any trends happiness might have depending on the country’s location.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Project 1: World Happiness</span>"
+    ]
+  },
+  {
+    "objectID": "chapter2.html",
+    "href": "chapter2.html",
+    "title": "Project 2: Analyzing Customer Behavior",
+    "section": "",
+    "text": "Abstract\nThis report covers a range of data focused on customer behavior and spending patterns over various demographic and membership categories. The study focuses on how the total amount spent by a customer varies depending on age grouping and membership type as well as covering the relationship between items purchased and total spent, including differences in customer ratings across different cities. In addition, correlations between total spend and key factors such as days since last purchase, discount application, and satisfaction level are explored.\nThe analysis also explores the age distribution within membership categories, gender-based spending patterns, and city-level variations in purchasing behavior. A range of visualizations that include box plots, bar charts, and correlation graphs are used to highlight trends, relationships, and potential insights for effective business decision-making.\n\n\nIntroduction\nUnderstanding customer behavior is critical for businesses seeking to optimize marketing strategies, enhance customer retention, and increase overall profitability. This report aims to uncover key insights into spending patterns, demographic influences, and satisfaction dynamics within a customer dataset. By analyzing spending behavior across membership types, age groups, and cities, the study identifies how demographic and behavioral factors influence total expenditure and customer satisfaction.\n\n\nResults\n\n\n  Customer.ID Gender Age          City Membership.Type Total.Spend\n1         101 Female  29      New York            Gold     1120.20\n2         102   Male  34   Los Angeles          Silver      780.50\n3         103 Female  43       Chicago          Bronze      510.75\n4         104   Male  30 San Francisco            Gold     1480.30\n5         105   Male  27         Miami          Silver      720.40\n6         106 Female  37       Houston          Bronze      440.80\n  Items.Purchased Average.Rating Discount.Applied Days.Since.Last.Purchase\n1              14            4.6             TRUE                       25\n2              11            4.1            FALSE                       18\n3               9            3.4             TRUE                       42\n4              19            4.7            FALSE                       12\n5              13            4.0             TRUE                       55\n6               8            3.1            FALSE                       22\n  Satisfaction.Level\n1          Satisfied\n2            Neutral\n3        Unsatisfied\n4          Satisfied\n5        Unsatisfied\n6            Neutral\n\n\n\n\n1. What is the distribution of total spent across different membership types? How does total spend vary by age group?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe violin plot demonstrates the distribution of total spent across all membership types while also showing the overall age range each membership type has.\nMembership Bronze shows a low, short, and wide plot indicating a more consistent amount spent in total, between $400-575. The average age within also demonstrates that individuals with Bronze are older on average.\nMembership Silver shows a medium-in-height, taller plot which shows a more variable amount spent in total, between $600-900. We also see that Silver has an average user age younger than Bronze, but still older than Gold\nMembership Gold shows a narrow, very tall plot that illustrates a large range in total spent ($950-1625) that is much greater than the other memberships. It is also clear that GOld features the youngest age demographic.\n\n\n2. Is there a relationship between the number of items purchased and total spend?\n\n\n\n\n\n\n\n\n\nThe relationship between items purchased and amount spent is illustrated above. Here, we can see a positive, strong linear relationship between the two. This tells us that customers purchase items of similar value and that there is either little interest in expensive/cheap items, or all items are of similar value.\n\n\n3. How do average ratings differ by city?\n\n\n# A tibble: 6 × 2\n  City          Average_Rating\n  &lt;chr&gt;                  &lt;dbl&gt;\n1 San Francisco           4.81\n2 New York                4.54\n3 Los Angeles             4.17\n4 Miami                   3.93\n5 Chicago                 3.46\n6 Houston                 3.19\n\n\n[1] 4.017193\n\n\nFrom this table, San Francisco has the highest average rating at 4.81 and Houston has the lowest at 3.19. The average mean of the six cities is roughly 4.02.\n\n\n4. Visualization: Bar chart or box plot showing average rating by city\n\n\n\n\n\n\n\n\n\nVisualized, the difference in average rating is much more apparent. This may indicate issues surrounding service quality, customer interest, product availability, or customer support in locations with lower ratings.\n\n\n5. What is the correlation between days since last purchase and total spend?\n\n\n[1] -0.5400891\n\n\n\n\n\n\n\n\n\nThe data shows a correlation coefficient of -0.54. Visualized with the graph, we can see how this represents a moderate negative relationship between total spent vs days since last purchase.\nThis tells us that customers who made a purchase recently tend to spend more while customers whose last purchase was longer ago tend to spend less.\nIn practical terms, this implies that engaging with customers soon after their latest purchase may increase revenue and cutsomer lifetime value.\n\n\n6. What is the impact of discount application on total spend?\n\n\n# A tibble: 2 × 4\n  Discount.Applied Average_Spend Median_Spend Count\n  &lt;lgl&gt;                    &lt;dbl&gt;        &lt;dbl&gt; &lt;int&gt;\n1 FALSE                     903.         801.   175\n2 TRUE                      787.         691.   175\n\n\n\n\n\n\n\n\n\nThe barplot shows a clear difference between total spent with and without discounts. On average, customers without a discount will spend $903 and customers with a discount will spend $787.\nThe box plot indicates less spread and a lower average for discounted purchases which may suggest that discounts attract price-sensitive customers who spend less overall.\nThis may also indicate that, rather than encouraging higher-value purchases, the discounts are used on smaller purchases instead of promoting large purchases.\n\n\n7. What is the age distribution of customers for each membership type?\n\n\n# A tibble: 3 × 4\n  Membership.Type Average_Age Median_Age Count\n  &lt;chr&gt;                 &lt;dbl&gt;      &lt;dbl&gt; &lt;int&gt;\n1 Bronze                 39.4       39.5   116\n2 Gold                   29.9       30     117\n3 Silver                 31.6       32     117\n\n\n\n\n\n\n\n\n\nThe boxplot shows the following trends:\nBronze Membership is predominantly older individuals around the age of 39.4.\nSilver Membership includes the broadest range of ages, suggesting that it may appeal to a larger, more diverse customer base.\nGold Membership has the smallest range around the age of 29.9. This suggests that this membership may be much more appealing to younger customers.\n\n\n8. How does customer satisfaction level correlate with total spend?\n\n\n\n\n\n\n\n\n\nThe data here shows that customers who are satisfied with the product spend a significantly higher amount overall while those who are neutral or unsatisfied spend much less, and roughly the same between the two.\nThis suggests the there is either a very strong loyalty to these stores, or that the products are targetting a very specific interest group.\n\n\n9. What are the spending patterns of different gender groups?\n\n\n# A tibble: 2 × 5\n  Gender Avg_Spend Avg_Items Avg_Discount Avg_Rating\n  &lt;chr&gt;      &lt;dbl&gt;     &lt;dbl&gt;        &lt;dbl&gt;      &lt;dbl&gt;\n1 Female      704.      10.8        0.669       3.73\n2 Male        987.      14.4        0.331       4.31\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHere we can see the average total spend and the number of items purcahsed organized by gender. Males typically purchase 33% more, spend roughly 40.2% more, and rate 15.5% more than females on average. Females use discounts just over twice as often as males.\nThis shows that the products being sold at these locations are more appealing to men, and could suggest that introducing more items that are appealing to females could increase the amount of items sold.\n\n\n10. How does the number of items purchased vary by city?\n\n\n\n\n\n\n\n\n\nThe graph above covers the six cities included in the data in relation to how many items were purchased per person on average. The cities with the most items purchased on average is San Francisco with 20 items per person, and the lowest is Houston with 7.6 items per person.\nThe graph displays the average number of items bought per person across six different cities. Each bar represents the mean number of items purchased by individuals in that city, allowing for an easy comparison of buying behavior between locations.\nFrom this graph, you can identify which cities have higher or lower average purchasing activity.\nCities with higher averages indicate stronger consumer engagement or demand with residents there buying more on average.\nCities with lower averages may suggest less consumer activity, smaller markets, or potential opportunities for marketing or sales growth.\nSan Francisco shows the highest average items bought per person, suggesting stronger purchasing behavior or market engagement compared to the other cities. In contrast, Houston has the lowest average, indicating a lower level of consumer activity or a lack of customer interest.\n\n\nConclusion\nThe analysis provides several insights into customer spending behavior and satisfaction patterns across various demographics and membership groups.\nOverall, total spending varies quite noticeably across different membership types and age groups, with younger people making a majority of the gold membership, and the gold membership making up the majority of the overall sales. A strong positive relationship was observed between the number of items purchased and total spend, indicating that higher amounts of small purchases are driving income.\nWhen comparing cities, the average ratings customers gave differed, suggesting varying levels of satisfaction and/or service quality by location. Likewise, spending and purchasing patterns also varied by city which highlights the differences in consumer behavior based on region.\nA moderate negative correlation was found between days since last purchase and total spend (an r-value of -0.54) indicating that frequent customers are likely to spend more overall. Additionally, customers who use discounts do not tend to use them on higher-cost purchases, instead using them on smaller purchases.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Project 2: Analyzing Customer Behavior</span>"
+    ]
+  },
+  {
+    "objectID": "chapter3.html",
+    "href": "chapter3.html",
+    "title": "Project 3: Analyzing Customer Behavior",
+    "section": "",
+    "text": "Abstract\nThis report analyzes NBA player data to explore the relationships and patterns across career longevity, performance based on age, trends in scoring, and how salary has changed across multiple seasons. Through combining player stats, age data, and salary information, this report aims to provide insight into how the productivity of players changes over time, how scoring behavior has changed over time, and how financial compensation has changed accordingly. Typical career spans, performance from rookie to prime years, and long-term league scoring trends are highlighted.\n\n\nIntroduction\nThe NBA is a data-rich ecosystem where player performance, career duration, and compensation reflect both individual ability and broader league trends. Understanding these patterns provides valuable context for player development, team strategy, and salary management.\nThis report investigates the following five key questions:\nCareer Longevity: What is the average career length of NBA players during the observed period?\nAge and Performance: How does average performance (points, assists, rebounds) change with age, and do some players sustain excellence at older ages?\nScoring Trends: Who were the top scorers each season, how did their production evolve, and are there observable trends in league-wide scoring?\nPrime vs. Rookie Performance: Is there a significant gap between players in their prime years and those in their rookie seasons?\nSalary Trends: How has the average player salary evolved over time in response to league growth and player performance metrics?\nThe results are derived from player-season data, with additional contextual information from league salary records.\n\n\nResults\n\n\n  X      player_name team_abbreviation age player_height player_weight\n1 0 Randy Livingston               HOU  22        193.04      94.80073\n2 1 Gaylon Nickerson               WAS  28        190.50      86.18248\n3 2     George Lynch               VAN  26        203.20     103.41898\n4 3   George McCloud               LAL  30        203.20     102.05820\n5 4     George Zidek               DEN  23        213.36     119.74829\n6 5   Gerald Wilkins               ORL  33        198.12     102.05820\n                college country draft_year draft_round draft_number gp  pts reb\n1       Louisiana State     USA       1996           2           42 64  3.9 1.5\n2 Northwestern Oklahoma     USA       1994           2           34  4  3.8 1.3\n3        North Carolina     USA       1993           1           12 41  8.3 6.4\n4         Florida State     USA       1989           1            7 64 10.2 2.8\n5                  UCLA     USA       1995           1           22 52  2.8 1.7\n6 Tennessee-Chattanooga     USA       1985           2           47 80 10.6 2.2\n  ast net_rating oreb_pct dreb_pct usg_pct ts_pct ast_pct  season\n1 2.4        0.3    0.042    0.071   0.169  0.487   0.248 1996-97\n2 0.3        8.9    0.030    0.111   0.174  0.497   0.043 1996-97\n3 1.9       -8.2    0.106    0.185   0.175  0.512   0.125 1996-97\n4 1.7       -2.7    0.027    0.111   0.206  0.527   0.125 1996-97\n5 0.3      -14.1    0.102    0.169   0.195  0.500   0.064 1996-97\n6 2.2       -5.8    0.031    0.064   0.203  0.503   0.143 1996-97\n\n\n\n\n1. What is the average career length of NBA players during this period?\n\n\n\n\n\n\n\n\n\nThis distribution of career lengths shows that a vast amount of careers last for no more than 5 years, and that very few last longer than 15 years. This may reflect high injury rates, high competitiveness, or a sizeable discrepancy between performance and age.\n\n\n2. Age and Performance: How does the average performance (points, assists, rebounds) change with players’ age? Are there players who continued to excel at an older age?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHere the average points, rebounds, and assists per game are graphed. From this, it is evident that around 28 years of age are when players are at their highest performance on average after which average performance steadily drops.\n\n\n3. Scoring Trends: Who were the top scorers each season, and how did their points per game vary? Is there a trend in scoring across seasons?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThis chart shows that the average points per game of the league average and median has stayed fairly consistent over the years while the top performers have improved overall. Top scorers have slowly gotten better over time and far outscore the median and average player.\n\n\n4. Is there a large difference between the performance of players in their prime compared to rooke players?\n\n\n\n\n\n\n\n\n\nThe chart depicts how players in their prime performed compared to rookie players. While players in their prime far outperformed rookies in average points, overall scoring efficiency (ts), and average usage (usg) were practically identical regardless of prime or rookie. Otherwise players in their prime always performed better.\n\n\n5. How has the average salary of NBA players changed over the years\n\n\n\n\n\n\n\n\n\nThe graph above depicts the maximum and average salary for players in the NBA from the year 184 to the year 2026. We can see that over time, both average and maximum salary have steadily increased with little to no dips.\n\n\nConclusion\nOverall the analysis reveals several clear and consistent patterns in NBA player behavior, performance, and compensation over time. Careers in the league are usually short with most lasting no more than 5 seasons and only a fraction maintaining a career past 15 years. Performance trends by age show that players usually peak around age 28.\nScoring trends across seasons indicate that while league-wide averages have remained relatively stable, top performers have steadily pushed the upper limits of points per game, reflecting shifts in playstyle.\nSalary trends show a dramatic and continuous rise in both average and maximum player salaries, coinciding with league expansion, increased revenue, and the growing market value of star players. Taken together, these findings provide meaningful insight not only into how individual careers evolve but also into how the broader landscape of NBA performance and compensation has transformed over time.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Project 3: Analyzing Customer Behavior</span>"
+    ]
+  }
+]
